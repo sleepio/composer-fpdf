@@ -2,7 +2,7 @@
 	"name": "sleepio/fpdf",
 	"description": "Sleepio fdpf php sdk mirror",
 	"type": "library",
-	"homepage": "https://sleepio@bitbucket.org/sleepio/composer-fpdf.git",
+	"homepage": "https://git@github.com:sleepio/composer-fpdf.git",
 	"autoload": {
 		"classmap": ["fpdf.php", "font/"]
 	}
